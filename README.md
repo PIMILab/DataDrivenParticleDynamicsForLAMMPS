@@ -140,3 +140,15 @@ If you use `main_compile.py`, then the `<cutoff>` is already defined by your tra
 
 To see a full walkthrough of training a model, compiling LAMMPS with `sdpd/ml` pairstyle, running LAMMPS with a trained model, check out the following link:
 https://colab.research.google.com/drive/1ZKeimm3Eeo_fF9WrPkzcCnFEj55xhkce?usp=sharing
+
+## Citation
+If you found this code useful please cite our work as:
+
+```
+@article{hernandez2022data,
+  title={Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems},
+  author={Hernandez, Quercus and Win, Max and O'Connor, Thomas C. and Arratia, Paulo E. and Trask, Nathaniel},
+  journal={arXiv preprint arXiv:XXX},
+  year={2025},
+}
+```
