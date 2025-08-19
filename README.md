@@ -145,7 +145,7 @@ https://colab.research.google.com/drive/1ZKeimm3Eeo_fF9WrPkzcCnFEj55xhkce?usp=sh
 If you found this code useful please cite our work as:
 
 ```
-@article{hernandez2022data,
+@article{hernandez2025data,
   title={Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems},
   author={Hernandez, Quercus and Win, Max and O'Connor, Thomas C. and Arratia, Paulo E. and Trask, Nathaniel},
   journal={arXiv preprint arXiv:2508.12569},
